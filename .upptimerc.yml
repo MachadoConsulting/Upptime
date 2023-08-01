@@ -11,18 +11,24 @@ sites:
     
   - name: Machado CW Automate
     url: https://machado.hostedrmm.com
+    icon: https://files.connectwise.com/UI/Icons/v1.0/ConnectWise-Automate-Logos-01.svg
     
-  - name: MC CW ScreenConnect
+  - name: Machado CW ScreenConnect
     url: https://connect.gomachado.com
 
-  - name: MC Voice
+  - name: Machado Voice
     url: https://phones.gomachado.com
+
+  - name: ITGlue
+    url: https://machado.itglue.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gomachado.com
   # baseUrl: /your-repo-name
+  favicon: https://avatars.githubusercontent.com/u/70292154?v=4
+  theme: night
   logoUrl: https://avatars.githubusercontent.com/u/70292154?v=4
   name: Machado Status
   introTitle: "Welcome to our status page."
