@@ -24,11 +24,11 @@ sites:
     
   - name: ITGlue
     url: https://machado.itglue.com
-    icon: https://play-lh.googleusercontent.com/X-8kj8DfJYY0SnLfWfXPUnMo5Q1Q8BaHE6f5tw-ATMpSgUMVmj18vXz1lZWxmgpTrcE=w600-h300-pc0xffffff-pd
+    icon: https://www.itglue.com/favicon.ico
 
   - name: UniFi Controller
     url: https://hostifi.gomachado.com
-    icon: https://cdn.imgbin.com/11/20/0/imgbin-ubiquiti-networks-unifi-computer-network-wireless-wi-fi-others-iritk8TFuGXvtefYNXb6aQrmm.jpg
+    icon: https://prd-www-cdn.ubnt.com/static/favicon.ico
 
   - name: Rewst
     url: https:/app.rewst.io
