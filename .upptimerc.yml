@@ -28,9 +28,11 @@ sites:
 
   - name: UniFi Controller
     url: https://hostifi.gomachado.com
+    icon: https://e7.pngegg.com/pngimages/963/790/png-clipart-ubiquiti-networks-unifi-computer-network-wireless-wi-fi-others-miscellaneous-blue.png
 
   - name: Rewst
     url: https:/app.rewst.io
+    icon: https://media.licdn.com/dms/image/C560BAQFWx4rvTtf4rA/company-logo_200_200/0/1633783133370?e=2147483647&v=beta&t=DodE-xVw7d-40mmlfdNERJw2VcoEknrfU5VXBoc76cw
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
