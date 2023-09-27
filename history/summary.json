@@ -96,19 +96,19 @@
     "url": "https://machado.immy.bot",
     "icon": "https://icons.duckduckgo.com/ip3/machado.immy.bot.ico",
     "slug": "immybot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 556,
-    "timeWeek": 440,
-    "timeMonth": 458,
-    "timeYear": 519,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 517,
+    "timeDay": 481,
+    "timeWeek": 435,
+    "timeMonth": 456,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 19
     }
   },
   {
