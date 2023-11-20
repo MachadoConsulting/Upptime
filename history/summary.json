@@ -136,18 +136,20 @@
     "url": "https://hostifi.gomachado.com",
     "icon": "https://prd-www-cdn.ubnt.com/static/favicon.ico",
     "slug": "uni-fi-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 617,
-    "timeWeek": 426,
-    "timeMonth": 454,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 735,
+    "timeWeek": 479,
+    "timeMonth": 466,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Rewst",
