@@ -35,7 +35,7 @@
     "time": 119,
     "timeDay": 75,
     "timeWeek": 90,
-    "timeMonth": 126,
+    "timeMonth": 125,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -154,17 +154,19 @@
     "url": "https:/app.rewst.io",
     "icon": "https://app.rewst.io/favicon.ico",
     "slug": "rewst",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 579,
-    "timeWeek": 551,
-    "timeMonth": 608,
-    "timeYear": 650,
-    "dailyMinutesDown": {}
+    "time": 647,
+    "timeDay": 436,
+    "timeWeek": 519,
+    "timeMonth": 598,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2023-11-26": 0
+    }
   }
 ]
