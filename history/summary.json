@@ -4,10 +4,10 @@
     "url": "https://gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/gomachado.com.ico",
     "slug": "machado-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 1299,
@@ -16,6 +16,7 @@
     "timeMonth": 1322,
     "timeYear": 1299,
     "dailyMinutesDown": {
+      "2023-12-05": 1,
       "2023-10-02": 986,
       "2023-10-01": 227,
       "2023-08-31": 17
@@ -80,10 +81,10 @@
     "url": "https://phones.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/phones.gomachado.com.ico",
     "slug": "machado-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
@@ -91,7 +92,9 @@
     "timeWeek": 468,
     "timeMonth": 417,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Immybot",
@@ -136,9 +139,9 @@
     "url": "https://hostifi.gomachado.com",
     "icon": "https://prd-www-cdn.ubnt.com/static/favicon.ico",
     "slug": "uni-fi-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +150,9 @@
     "timeWeek": 606,
     "timeMonth": 516,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Rewst",
