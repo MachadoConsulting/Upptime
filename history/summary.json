@@ -62,19 +62,19 @@
     "url": "https://connect.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/connect.gomachado.com.ico",
     "slug": "machado-cw-screen-connect",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 996,
-    "timeWeek": 457,
-    "timeMonth": 601,
-    "timeYear": 555,
+    "time": 553,
+    "timeDay": 556,
+    "timeWeek": 415,
+    "timeMonth": 586,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-01-25": 0
+      "2024-01-25": 5
     }
   },
   {
