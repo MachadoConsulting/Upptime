@@ -44,19 +44,19 @@
     "url": "https://machado.hostedrmm.com",
     "icon": "https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/automate-logo.png",
     "slug": "machado-cw-automate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 35,
+    "timeDay": 77,
     "timeWeek": 115,
-    "timeMonth": 170,
+    "timeMonth": 169,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-01-28": 0
+      "2024-01-28": 6
     }
   },
   {
