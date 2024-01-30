@@ -80,18 +80,20 @@
     "url": "https://phones.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/phones.gomachado.com.ico",
     "slug": "machado-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 641,
-    "timeWeek": 448,
-    "timeMonth": 437,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 416,
+    "timeDay": 444,
+    "timeWeek": 423,
+    "timeMonth": 431,
+    "timeYear": 416,
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "Immybot",
