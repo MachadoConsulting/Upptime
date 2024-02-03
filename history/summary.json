@@ -62,18 +62,20 @@
     "url": "https://connect.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/connect.gomachado.com.ico",
     "slug": "machado-cw-screen-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 573,
-    "timeWeek": 439,
-    "timeMonth": 502,
-    "timeYear": 544,
-    "dailyMinutesDown": {}
+    "time": 543,
+    "timeDay": 376,
+    "timeWeek": 406,
+    "timeMonth": 492,
+    "timeYear": 543,
+    "dailyMinutesDown": {
+      "2024-02-03": 0
+    }
   },
   {
     "name": "Machado Voice",
