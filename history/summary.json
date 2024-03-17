@@ -125,19 +125,19 @@
     "url": "https://machado.itglue.com",
     "icon": "https://www.itglue.com/favicon.ico",
     "slug": "it-glue",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 465,
-    "timeWeek": 542,
-    "timeMonth": 616,
-    "timeYear": 612,
+    "time": 613,
+    "timeDay": 597,
+    "timeWeek": 577,
+    "timeMonth": 624,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2024-03-17": 0
+      "2024-03-17": 11
     }
   },
   {
