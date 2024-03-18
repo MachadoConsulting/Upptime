@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1179,
-    "timeDay": 97,
-    "timeWeek": 1812,
-    "timeMonth": 1513,
-    "timeYear": 1179,
+    "time": 1194,
+    "timeDay": 4985,
+    "timeWeek": 1734,
+    "timeMonth": 1684,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2023-10-02": 986,
       "2023-10-01": 227,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 37,
-    "timeWeek": 134,
-    "timeMonth": 95,
+    "timeDay": 162,
+    "timeWeek": 112,
+    "timeMonth": 97,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 34,
-    "timeWeek": 179,
+    "timeDay": 140,
+    "timeWeek": 155,
     "timeMonth": 152,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 512,
-    "timeDay": 146,
-    "timeWeek": 426,
-    "timeMonth": 388,
-    "timeYear": 512,
+    "time": 511,
+    "timeDay": 318,
+    "timeWeek": 370,
+    "timeMonth": 391,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2024-02-03": 641
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 403,
-    "timeDay": 300,
-    "timeWeek": 359,
+    "time": 402,
+    "timeDay": 269,
+    "timeWeek": 334,
     "timeMonth": 335,
-    "timeYear": 403,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2024-01-30": 28
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 796,
-    "timeDay": 497,
-    "timeWeek": 982,
-    "timeMonth": 1697,
-    "timeYear": 796,
+    "time": 794,
+    "timeDay": 539,
+    "timeWeek": 962,
+    "timeMonth": 1690,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-01-15": 16,
       "2023-09-27": 19
@@ -127,18 +127,16 @@
     "slug": "it-glue",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 613,
-    "timeDay": 597,
-    "timeWeek": 577,
-    "timeMonth": 624,
+    "timeDay": 573,
+    "timeWeek": 575,
+    "timeMonth": 625,
     "timeYear": 613,
-    "dailyMinutesDown": {
-      "2024-03-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "UniFi Controller",
@@ -152,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
-    "timeDay": 182,
-    "timeWeek": 501,
-    "timeMonth": 442,
+    "timeDay": 422,
+    "timeWeek": 449,
+    "timeMonth": 443,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-01-22": 15
@@ -172,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 635,
-    "timeDay": 550,
-    "timeWeek": 702,
-    "timeMonth": 622,
+    "timeDay": 621,
+    "timeWeek": 664,
+    "timeMonth": 626,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2023-11-26": 240
