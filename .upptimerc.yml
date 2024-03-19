@@ -22,7 +22,7 @@ sites:
   - name: Machado Voice
     url: https://phones.gomachado.com
 
-  - Name: DNS Filter
+  - name: DNS Filter
     url: https://dns.gomachado.com
 
   - name: Immybot
