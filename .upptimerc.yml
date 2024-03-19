@@ -5,6 +5,9 @@ repo: Upptime # The name of this repository
 sites:
   - name: Machado Website
     url: https://gomachado.com
+
+  - name: Machado Portal
+    url: https://portal.gomachado.com
     
   - name: Machado CW Manage
     url: https://na.myconnectwise.net
@@ -18,6 +21,9 @@ sites:
 
   - name: Machado Voice
     url: https://phones.gomachado.com
+
+  - Name: DNS Filter
+    url: https://dns.gomachado.com
 
   - name: Immybot
     url: https://machado.immy.bot
