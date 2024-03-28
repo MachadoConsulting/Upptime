@@ -44,18 +44,20 @@
     "url": "https://na.myconnectwise.net",
     "icon": "https://icons.duckduckgo.com/ip3/na.myconnectwise.net.ico",
     "slug": "machado-cw-manage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 202,
-    "timeWeek": 127,
-    "timeMonth": 109,
-    "timeYear": 112,
-    "dailyMinutesDown": {}
+    "time": 113,
+    "timeDay": 185,
+    "timeWeek": 132,
+    "timeMonth": 111,
+    "timeYear": 113,
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "Machado CW Automate",
