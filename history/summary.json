@@ -163,18 +163,20 @@
     "url": "https://machado.itglue.com",
     "icon": "https://www.itglue.com/favicon.ico",
     "slug": "it-glue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 379,
-    "timeWeek": 581,
-    "timeMonth": 579,
-    "timeYear": 608,
-    "dailyMinutesDown": {}
+    "time": 606,
+    "timeDay": 284,
+    "timeWeek": 532,
+    "timeMonth": 567,
+    "timeYear": 606,
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   },
   {
     "name": "UniFi Controller",
