@@ -27,19 +27,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.gomachado.com.ico",
     "slug": "machado-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 108,
     "timeWeek": 226,
     "timeMonth": 223,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2024-05-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Machado CW Manage",
@@ -86,9 +84,9 @@
     "slug": "machado-cw-screen-connect",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 492,
     "timeDay": 182,
@@ -96,7 +94,6 @@
     "timeMonth": 357,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-05-02": 6,
       "2024-02-03": 641
     }
   },
