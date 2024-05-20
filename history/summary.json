@@ -44,19 +44,19 @@
     "url": "https://na.myconnectwise.net",
     "icon": "https://icons.duckduckgo.com/ip3/na.myconnectwise.net.ico",
     "slug": "machado-cw-manage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 114,
-    "timeDay": 38,
-    "timeWeek": 85,
-    "timeMonth": 108,
+    "timeDay": 109,
+    "timeWeek": 97,
+    "timeMonth": 110,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-05-20": 0
+      "2024-05-20": 86
     }
   },
   {
