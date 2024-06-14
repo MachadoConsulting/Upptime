@@ -26,19 +26,19 @@
     "url": "https://portal.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.gomachado.com.ico",
     "slug": "machado-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 136,
-    "timeWeek": 166,
-    "timeMonth": 370,
-    "timeYear": 284,
+    "time": 283,
+    "timeDay": 140,
+    "timeWeek": 163,
+    "timeMonth": 363,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-06-14": 0
+      "2024-06-14": 6
     }
   },
   {
