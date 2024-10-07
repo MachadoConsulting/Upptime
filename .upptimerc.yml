@@ -8,6 +8,9 @@ sites:
 
   - name: Machado Portal
     url: https://portal.gomachado.com
+
+  - name: Machado Backup Vault
+    url: https://rb-machado1.rb.slc.efscloud.net
     
   - name: Machado CW Manage
     url: https://na.myconnectwise.net
@@ -25,12 +28,11 @@ sites:
   - name: DNS Filter
     url: https://dns.gomachado.com
 
+  - name: Hudu
+    url: https://gomachado.huducloud.com
+
   - name: Immybot
     url: https://machado.immy.bot
-    
-  - name: ITGlue
-    url: https://machado.itglue.com
-    icon: https://www.itglue.com/favicon.ico
 
   - name: UniFi Controller
     url: https://hostifi.gomachado.com
