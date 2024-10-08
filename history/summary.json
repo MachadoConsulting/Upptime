@@ -43,19 +43,19 @@
     "url": "https://rb-machado1.rb.slc.efscloud.net",
     "icon": "https://icons.duckduckgo.com/ip3/rb-machado1.rb.slc.efscloud.net.ico",
     "slug": "machado-backup-vault",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1181,
-    "timeDay": 1647,
-    "timeWeek": 1181,
-    "timeMonth": 1181,
-    "timeYear": 1181,
+    "status": "up",
+    "uptime": "97.96%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
+    "time": 904,
+    "timeDay": 999,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2024-10-08": 0
+      "2024-10-08": 30
     }
   },
   {
