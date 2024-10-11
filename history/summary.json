@@ -187,11 +187,11 @@
     "url": "https://machado.immy.bot",
     "icon": "https://icons.duckduckgo.com/ip3/machado.immy.bot.ico",
     "slug": "immybot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 697,
     "timeDay": 11534,
@@ -199,7 +199,7 @@
     "timeMonth": 1139,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2024-10-11": 5,
+      "2024-10-11": 0,
       "2024-05-02": 130,
       "2024-01-15": 16
     }
