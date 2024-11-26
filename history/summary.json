@@ -43,9 +43,9 @@
     "url": "https://rb-machado1.rb.slc.efscloud.net",
     "icon": "https://icons.duckduckgo.com/ip3/rb-machado1.rb.slc.efscloud.net.ico",
     "slug": "machado-backup-vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -55,6 +55,7 @@
     "timeMonth": 1258,
     "timeYear": 1381,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-10-08": 30
     }
   },
