@@ -161,9 +161,9 @@
     "url": "https://dns.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/dns.gomachado.com.ico",
     "slug": "dns-filter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,6 +173,7 @@
     "timeMonth": 325,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2025-07-12": 0,
       "2024-10-22": 17
     }
   },
