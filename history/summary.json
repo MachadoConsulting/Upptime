@@ -92,9 +92,9 @@
     "url": "https://machado.hostedrmm.com",
     "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.connectwise.com%2Fcompany%2Fannouncements%2Fnow-called-connectwise-manage&psig=AOvVaw0DefudW3YTa8eBWV5FgzUu&ust=1710895711253000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC4yayN_4QDFQAAAAAdAAAAABAJ",
     "slug": "machado-cw-automate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,6 +104,7 @@
     "timeMonth": 184,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2025-05-14": 22
     }
   },
