@@ -4,18 +4,20 @@
     "url": "https://gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/gomachado.com.ico",
     "slug": "machado-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
+    "time": 995,
     "timeDay": 140,
     "timeWeek": 410,
     "timeMonth": 1526,
     "timeYear": 1103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 0
+    }
   },
   {
     "name": "Machado Portal",
@@ -96,12 +98,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
     "timeDay": 274,
     "timeWeek": 160,
-    "timeMonth": 180,
+    "timeMonth": 185,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-07-16": 22,
