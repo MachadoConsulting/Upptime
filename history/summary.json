@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gomachado.com.ico",
     "slug": "machado-website",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
     "timeDay": 117,
     "timeWeek": 371,
     "timeMonth": 1481,
     "timeYear": 1101,
-    "dailyMinutesDown": {
-      "2025-08-16": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Machado Portal",
@@ -45,9 +43,9 @@
     "url": "https://rb-machado1.rb.slc.efscloud.net",
     "icon": "https://icons.duckduckgo.com/ip3/rb-machado1.rb.slc.efscloud.net.ico",
     "slug": "machado-backup-vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -57,6 +55,7 @@
     "timeMonth": 905,
     "timeYear": 1139,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-12": 97,
       "2025-06-24": 72,
       "2025-06-14": 34,
