@@ -4,18 +4,19 @@
     "url": "https://gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/gomachado.com.ico",
     "slug": "machado-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1014,
+    "time": 1015,
     "timeDay": 103,
     "timeWeek": 1777,
     "timeMonth": 1173,
     "timeYear": 1098,
     "dailyMinutesDown": {
+      "2025-10-09": 0,
       "2025-08-16": 23
     }
   },
