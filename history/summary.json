@@ -13,8 +13,8 @@
     "time": 1047,
     "timeDay": 170,
     "timeWeek": 1049,
-    "timeMonth": 1093,
-    "timeYear": 1120,
+    "timeMonth": 991,
+    "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-10-09": 18,
       "2025-08-16": 23
@@ -34,7 +34,7 @@
     "time": 336,
     "timeDay": 236,
     "timeWeek": 322,
-    "timeMonth": 447,
+    "timeMonth": 445,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-10-29": 309,
@@ -55,8 +55,8 @@
     "time": 1088,
     "timeDay": 1102,
     "timeWeek": 936,
-    "timeMonth": 815,
-    "timeYear": 1045,
+    "timeMonth": 826,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2025-08-16": 27,
       "2025-07-12": 97,
@@ -84,7 +84,7 @@
     "time": 148,
     "timeDay": 80,
     "timeWeek": 115,
-    "timeMonth": 135,
+    "timeMonth": 134,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -102,8 +102,8 @@
     "time": 165,
     "timeDay": 69,
     "timeWeek": 212,
-    "timeMonth": 194,
-    "timeYear": 173,
+    "timeMonth": 189,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2025-07-16": 22,
       "2025-05-14": 22
@@ -148,7 +148,7 @@
     "time": 417,
     "timeDay": 395,
     "timeWeek": 445,
-    "timeMonth": 461,
+    "timeMonth": 456,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-09-15": 22,
@@ -171,7 +171,7 @@
     "time": 295,
     "timeDay": 129,
     "timeWeek": 269,
-    "timeMonth": 358,
+    "timeMonth": 359,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-11-02": 95,
@@ -193,19 +193,19 @@
     "url": "https://gomachado.huducloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/gomachado.huducloud.com.ico",
     "slug": "hudu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 673,
-    "timeDay": 6034,
-    "timeWeek": 1926,
-    "timeMonth": 832,
+    "time": 672,
+    "timeDay": 318,
+    "timeWeek": 1790,
+    "timeMonth": 828,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-11-11": 0,
+      "2025-11-11": 13,
       "2025-08-06": 18,
       "2025-06-01": 17,
       "2025-04-25": 40,
@@ -228,8 +228,8 @@
     "time": 808,
     "timeDay": 132,
     "timeWeek": 379,
-    "timeMonth": 351,
-    "timeYear": 632,
+    "timeMonth": 354,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-08-22": 22,
       "2025-08-18": 76,
@@ -254,7 +254,7 @@
     "time": 505,
     "timeDay": 365,
     "timeWeek": 1066,
-    "timeMonth": 619,
+    "timeMonth": 617,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-11-10": 31,
@@ -282,7 +282,7 @@
     "time": 626,
     "timeDay": 633,
     "timeWeek": 674,
-    "timeMonth": 589,
+    "timeMonth": 581,
     "timeYear": 621,
     "dailyMinutesDown": {}
   }
