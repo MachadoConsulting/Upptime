@@ -103,7 +103,7 @@
     "timeDay": 51,
     "timeWeek": 194,
     "timeMonth": 181,
-    "timeYear": 172,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2025-07-16": 22,
       "2025-05-14": 22
@@ -170,7 +170,7 @@
     "uptimeYear": "99.92%",
     "time": 294,
     "timeDay": 113,
-    "timeWeek": 246,
+    "timeWeek": 207,
     "timeMonth": 344,
     "timeYear": 320,
     "dailyMinutesDown": {
@@ -193,9 +193,9 @@
     "url": "https://gomachado.huducloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/gomachado.huducloud.com.ico",
     "slug": "hudu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -205,6 +205,7 @@
     "timeMonth": 1748,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-08-06": 18,
       "2025-06-01": 17,
       "2025-04-25": 40,
