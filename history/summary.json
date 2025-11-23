@@ -201,7 +201,7 @@
     "uptimeYear": "99.97%",
     "time": 895,
     "timeDay": 308,
-    "timeWeek": 3322,
+    "timeWeek": 3600,
     "timeMonth": 3104,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -218,9 +218,9 @@
     "url": "https://machado.immy.bot",
     "icon": "https://icons.duckduckgo.com/ip3/machado.immy.bot.ico",
     "slug": "immybot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -230,6 +230,7 @@
     "timeMonth": 362,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-08-22": 22,
       "2025-08-18": 76,
       "2025-08-12": 21,
