@@ -43,7 +43,7 @@ sites:
     icon: https://app.rewst.io/favicon.ico
 
   - name: CIPP
-    url: https://cipp.gomachado.com
+    url: https://cipp.gomachado.com/api/publicping
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
