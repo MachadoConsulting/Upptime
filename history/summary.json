@@ -124,7 +124,7 @@
     "timeDay": 685,
     "timeWeek": 397,
     "timeMonth": 362,
-    "timeYear": 509,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-07-11": 39,
       "2025-09-05": 17,
@@ -141,10 +141,10 @@
     "url": "https://phones.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/phones.gomachado.com.ico",
     "slug": "machado-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "88.42%",
-    "uptimeWeek": "98.35%",
+    "uptimeDay": "88.39%",
+    "uptimeWeek": "98.34%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.95%",
     "time": 464,
@@ -156,7 +156,8 @@
       "2025-09-15": 22,
       "2026-01-26": 25,
       "2026-03-07": 25,
-      "2026-06-05": 167
+      "2026-06-05": 167,
+      "2026-06-06": 0
     }
   },
   {
@@ -297,11 +298,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cipp.gomachado.com.ico",
     "slug": "cipp",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 11690,
     "timeDay": 855,
     "timeWeek": 11690,
