@@ -1,7 +1,7 @@
 url: https://cipp.gomachado.com/api/publicping
-status: up
-code: 200
-responseTime: 1285
-lastUpdated: 2026-06-26T00:03:26.651Z
+status: down
+code: 500
+responseTime: 45104
+lastUpdated: 2026-06-26T04:45:01.566Z
 startTime: 2026-06-04T12:22:24.795Z
 generator: Upptime <https://github.com/upptime/upptime>
