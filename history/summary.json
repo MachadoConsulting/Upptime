@@ -14,7 +14,7 @@
     "timeDay": 169,
     "timeWeek": 2228,
     "timeMonth": 2342,
-    "timeYear": 1678,
+    "timeYear": 1683,
     "dailyMinutesDown": {
       "2025-08-16": 23,
       "2025-10-09": 18,
@@ -59,7 +59,7 @@
     "timeDay": 1187,
     "timeWeek": 1091,
     "timeMonth": 1033,
-    "timeYear": 1007,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-07-12": 97,
       "2025-08-16": 27,
@@ -122,7 +122,7 @@
     "timeDay": 386,
     "timeWeek": 472,
     "timeMonth": 472,
-    "timeYear": 502,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-07-11": 39,
       "2025-09-05": 17,
@@ -139,9 +139,9 @@
     "url": "https://phones.gomachado.com",
     "icon": "https://icons.duckduckgo.com/ip3/phones.gomachado.com.ico",
     "slug": "machado-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.92%",
@@ -157,7 +157,8 @@
       "2026-06-05": 167,
       "2026-06-06": 125,
       "2026-06-20": 0,
-      "2026-06-19": 41
+      "2026-06-19": 41,
+      "2026-06-30": 0
     }
   },
   {
@@ -208,7 +209,7 @@
     "timeDay": 107,
     "timeWeek": 236,
     "timeMonth": 240,
-    "timeYear": 960,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-08-06": 18,
       "2025-11-13": 18,
@@ -261,7 +262,7 @@
     "timeDay": 185,
     "timeWeek": 379,
     "timeMonth": 409,
-    "timeYear": 552,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2025-08-03": 28,
       "2025-08-23": 25,
@@ -289,7 +290,7 @@
     "timeDay": 668,
     "timeWeek": 771,
     "timeMonth": 759,
-    "timeYear": 651,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -298,11 +299,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cipp.gomachado.com.ico",
     "slug": "cipp",
     "status": "up",
-    "uptime": "92.37%",
+    "uptime": "92.38%",
     "uptimeDay": "67.15%",
     "uptimeWeek": "89.51%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "92.37%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "92.38%",
     "time": 19628,
     "timeDay": 21674,
     "timeWeek": 17831,
