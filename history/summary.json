@@ -49,13 +49,13 @@
     "url": "https://rb-machado1.rb.slc.efscloud.net",
     "icon": "https://icons.duckduckgo.com/ip3/rb-machado1.rb.slc.efscloud.net.ico",
     "slug": "machado-backup-vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1023,
+    "time": 1022,
     "timeDay": 851,
     "timeWeek": 1382,
     "timeMonth": 1133,
@@ -63,7 +63,8 @@
     "dailyMinutesDown": {
       "2025-07-12": 97,
       "2025-08-16": 27,
-      "2026-03-30": 84
+      "2026-03-30": 84,
+      "2026-07-08": 0
     }
   },
   {
@@ -298,11 +299,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cipp.gomachado.com.ico",
     "slug": "cipp",
     "status": "up",
-    "uptime": "91.98%",
+    "uptime": "92.03%",
     "uptimeDay": "84.94%",
     "uptimeWeek": "89.58%",
     "uptimeMonth": "91.47%",
-    "uptimeYear": "91.98%",
+    "uptimeYear": "92.03%",
     "time": 18776,
     "timeDay": 11135,
     "timeWeek": 17397,
