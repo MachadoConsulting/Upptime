@@ -14,7 +14,7 @@
     "timeDay": 2122,
     "timeWeek": 1787,
     "timeMonth": 1988,
-    "timeYear": 1702,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2025-08-16": 23,
       "2025-10-09": 18,
@@ -36,7 +36,7 @@
     "timeDay": 506,
     "timeWeek": 457,
     "timeMonth": 385,
-    "timeYear": 416,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2025-08-14": 129,
       "2025-10-29": 309,
@@ -59,7 +59,7 @@
     "timeDay": 593,
     "timeWeek": 1166,
     "timeMonth": 1104,
-    "timeYear": 1013,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-08-16": 27,
       "2026-03-30": 84,
@@ -121,7 +121,7 @@
     "timeDay": 658,
     "timeWeek": 474,
     "timeMonth": 414,
-    "timeYear": 496,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2025-09-05": 17,
       "2025-10-29": 372,
@@ -147,7 +147,7 @@
     "timeDay": 734,
     "timeWeek": 655,
     "timeMonth": 639,
-    "timeYear": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2025-09-15": 22,
       "2026-01-26": 25,
@@ -205,7 +205,7 @@
     "timeDay": 300,
     "timeWeek": 248,
     "timeMonth": 233,
-    "timeYear": 962,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-08-06": 18,
       "2025-11-13": 18,
@@ -229,7 +229,7 @@
     "timeDay": 481,
     "timeWeek": 242,
     "timeMonth": 233,
-    "timeYear": 380,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2025-07-27": 22,
       "2025-08-11": 19,
@@ -257,7 +257,7 @@
     "timeDay": 503,
     "timeWeek": 403,
     "timeMonth": 395,
-    "timeYear": 543,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2025-08-03": 28,
       "2025-08-23": 25,
@@ -285,7 +285,7 @@
     "timeDay": 874,
     "timeWeek": 810,
     "timeMonth": 793,
-    "timeYear": 656,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -293,17 +293,17 @@
     "url": "https://cipp.gomachado.com/api/publicping",
     "icon": "https://icons.duckduckgo.com/ip3/cipp.gomachado.com.ico",
     "slug": "cipp",
-    "status": "down",
-    "uptime": "92.11%",
-    "uptimeDay": "85.04%",
-    "uptimeWeek": "89.60%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "92.11%",
-    "time": 18755,
-    "timeDay": 23292,
-    "timeWeek": 20884,
-    "timeMonth": 18537,
-    "timeYear": 18755,
+    "status": "up",
+    "uptime": "92.03%",
+    "uptimeDay": "81.13%",
+    "uptimeWeek": "89.04%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "92.03%",
+    "time": 18612,
+    "timeDay": 18796,
+    "timeWeek": 20081,
+    "timeMonth": 18349,
+    "timeYear": 18612,
     "dailyMinutesDown": {
       "2026-06-04": 23,
       "2026-06-08": 193,
@@ -336,7 +336,7 @@
       "2026-07-16": 214,
       "2026-07-17": 383,
       "2026-07-19": 123,
-      "2026-07-20": 216
+      "2026-07-20": 272
     }
   }
 ]
