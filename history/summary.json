@@ -92,11 +92,11 @@
     "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.connectwise.com%2Fcompany%2Fannouncements%2Fnow-called-connectwise-manage&psig=AOvVaw0DefudW3YTa8eBWV5FgzUu&ust=1710895711253000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC4yayN_4QDFQAAAAAdAAAAABAJ",
     "slug": "machado-cw-automate",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.95%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.87%",
     "time": 206,
     "timeDay": 298,
     "timeWeek": 229,
@@ -104,7 +104,7 @@
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-30": 540,
-      "2026-07-27": 5
+      "2026-07-27": 148
     }
   },
   {
@@ -278,17 +278,17 @@
     "slug": "rewst",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.97%",
     "time": 652,
     "timeDay": 767,
     "timeWeek": 838,
     "timeMonth": 780,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2026-07-27": 1
+      "2026-07-27": 143
     }
   },
   {
@@ -297,14 +297,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cipp.gomachado.com.ico",
     "slug": "cipp",
     "status": "up",
-    "uptime": "92.11%",
+    "uptime": "92.12%",
     "uptimeDay": "95.89%",
-    "uptimeWeek": "90.94%",
+    "uptimeWeek": "91.76%",
     "uptimeMonth": "91.31%",
-    "uptimeYear": "92.11%",
+    "uptimeYear": "92.12%",
     "time": 18935,
     "timeDay": 26099,
-    "timeWeek": 21324,
+    "timeWeek": 20289,
     "timeMonth": 18531,
     "timeYear": 18935,
     "dailyMinutesDown": {
