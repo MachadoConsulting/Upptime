@@ -220,16 +220,16 @@
     "url": "https://machado.immy.bot",
     "icon": "https://icons.duckduckgo.com/ip3/machado.immy.bot.ico",
     "slug": "immybot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 418,
-    "timeDay": 6158,
-    "timeWeek": 1669,
-    "timeMonth": 573,
+    "timeDay": 4222,
+    "timeWeek": 1523,
+    "timeMonth": 566,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2025-08-11": 19,
@@ -241,7 +241,7 @@
       "2026-04-26": 53,
       "2026-04-27": 56,
       "2026-07-26": 55,
-      "2026-08-09": 0
+      "2026-08-09": 31
     }
   },
   {
@@ -300,7 +300,7 @@
     "uptime": "91.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.70%",
-    "uptimeMonth": "91.21%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "91.77%",
     "time": 20097,
     "timeDay": 1104,
