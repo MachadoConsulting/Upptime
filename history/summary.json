@@ -291,17 +291,17 @@
     "url": "https://cipp.gomachado.com/api/publicping",
     "icon": "https://icons.duckduckgo.com/ip3/cipp.gomachado.com.ico",
     "slug": "cipp",
-    "status": "up",
-    "uptime": "91.44%",
-    "uptimeDay": "83.74%",
+    "status": "down",
+    "uptime": "91.46%",
+    "uptimeDay": "83.70%",
     "uptimeWeek": "87.91%",
-    "uptimeMonth": "89.70%",
-    "uptimeYear": "91.44%",
-    "time": 20761,
-    "timeDay": 21739,
-    "timeWeek": 23725,
-    "timeMonth": 22861,
-    "timeYear": 20761,
+    "uptimeMonth": "89.76%",
+    "uptimeYear": "91.46%",
+    "time": 20860,
+    "timeDay": 23682,
+    "timeWeek": 24143,
+    "timeMonth": 22860,
+    "timeYear": 20860,
     "dailyMinutesDown": {
       "2026-06-04": 23,
       "2026-06-08": 193,
@@ -356,7 +356,7 @@
       "2026-08-14": 55,
       "2026-08-15": 165,
       "2026-08-16": 143,
-      "2026-08-17": 91
+      "2026-08-17": 92
     }
   }
 ]
